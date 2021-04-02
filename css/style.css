@@ -1,0 +1,32 @@
+.body {
+    font: 20px;
+}
+
+.navbar {
+    background-color: #3d3d3d;
+}
+
+.whoami {
+    background-color: #7e7e7e;
+    color: #ffffff;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.friends {
+    background-color: #727272;
+    color: #ffffff;
+}
+
+.services {
+    background-color: #555555;
+    color: #ffffff;
+}
+
+.bg-footer {
+    background-color: #1d1d1d;
+    color: white;
+}
